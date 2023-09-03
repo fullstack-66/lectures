@@ -28,4 +28,5 @@
 
 - [HTML](/src/T05_react_native/T05.html)
 - [PDF](/src/T05_react_native/T05.pdf)
-- [Code](https://github.com/fullstack-66/expo-todo)
+- [Repo](https://github.com/fullstack-66/expo-todo)
+- [APKs](https://drive.google.com/drive/folders/1UvU8yCrvvoYR91I7wVHBYfcgyjMh490k?usp=drive_link)
