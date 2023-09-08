@@ -33,6 +33,6 @@
 
 ## React Services
 
-- [HTML](/src/T06_mobile_sensors/T06.html)
-- [PDF](/src/T06_mobile_sensors/T06.pdf)
+- [HTML](/src/T06_mobile_services/T06.html)
+- [PDF](/src/T06_mobile_services/T06.pdf)
 - [APKs](https://drive.google.com/drive/folders/1UvU8yCrvvoYR91I7wVHBYfcgyjMh490k?usp=drive_link)
