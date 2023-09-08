@@ -30,3 +30,9 @@
 - [PDF](/src/T05_react_native/T05.pdf)
 - [Repo](https://github.com/fullstack-66/expo-todo)
 - [APKs](https://drive.google.com/drive/folders/1UvU8yCrvvoYR91I7wVHBYfcgyjMh490k?usp=drive_link)
+
+## React Services
+
+- [HTML](/src/T06_mobile_sensors/T06.html)
+- [PDF](/src/T06_mobile_sensors/T06.pdf)
+- [APKs](https://drive.google.com/drive/folders/1UvU8yCrvvoYR91I7wVHBYfcgyjMh490k?usp=drive_link)
