@@ -31,7 +31,7 @@
 - [Repo](https://github.com/fullstack-66/expo-todo)
 - [APKs](https://drive.google.com/drive/folders/1UvU8yCrvvoYR91I7wVHBYfcgyjMh490k?usp=drive_link)
 
-## React Services
+## React Native Services
 
 - [HTML](/src/T06_mobile_services/T06.html)
 - [PDF](/src/T06_mobile_services/T06.pdf)
